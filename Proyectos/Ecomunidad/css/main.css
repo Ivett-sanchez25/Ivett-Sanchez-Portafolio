@@ -1,0 +1,266 @@
+#menu{
+	padding:10px;
+	margin-left: 5%;
+}
+#menu li{
+	display: inline;
+}
+#menu li a{
+	font-size:12px;
+	text-decoration: none;
+	float:left;
+	padding: 20px;
+	color:gray;
+}
+#menu li a:hover {
+	background-color:#68f097;
+	margin-top:-1px;
+	padding-bottom:10px;
+}
+.logo{
+	width: 40%;
+	height: 40%;
+	margin-left: 20%;
+}
+.cuadro{
+	background-image: url("../img/semilla.jpg");
+	background-repeat:no-repeat;
+	background-position:60% 50%;
+	-webkit-background-size: cover;
+	-moz-background-size: covr;
+ 	-o-background-size: cover;
+	height:450px;
+}
+.espacio{
+	height: 100px;
+	margin:0;
+	background-color:#f2f2f2 ;
+}
+.texto{
+	text-align: center;
+	font-size: 10px;
+	color: black;
+	padding-top:4%;
+	margin-left:4%;
+	margin-right: 4%;
+	
+}
+.mision{
+	margin-left:40%;
+	margin-top: 5%;
+}
+.vision{
+	margin-left:33%;
+	margin-top: 5%
+}
+.text{
+	font-size: 15px;
+	left: 6%;
+	text-align:center;
+	margin-left: 10%;
+	margin-right: 10%;
+	margin-bottom: 10%;
+}
+.verde{
+	background-image: url("../img/fondo.jpg");
+	background-repeat:no-repeat;
+	background-position:;
+	height:400px;
+}
+.metodo{
+	height:400px;
+	width: 100%;
+}
+.metodologia{
+	margin-left: 40%;
+	margin-top: 20%;
+	margin-bottom: 5%;
+}
+h2{
+	text-align: center;
+	margin-bottom: 5%;
+	color: white;
+}
+.met{
+	color: white;
+	text-align: center;
+	font-size: 15px;
+	padding: 10px 10px 10px 10px;
+}
+.titulo{
+	margin:5%;
+	margin-left: 45%;
+	margin-bottom: 3%;
+}
+.servicio{
+	text-align: center;
+	font-size: 15px;
+	margin: 1% 10% 1% 10%;
+}
+.circulo{
+	width: 30%;
+	margin: 5% 5% 0 8%;
+}
+.servi{
+	text-align: center;
+	font-size: 15px;
+	color: green;
+	margin: 5%;
+	
+}
+.escrito{
+text-align: center;
+font-size: 10px;
+color: black;
+margin: 5% 5% 5% 10%;
+}
+.aguacate{
+	background-color: #44a340;
+	background-repeat:no-repeat;
+	height: 625px;
+}
+
+.cuatro{
+	color: white;
+	margin-left:10%;
+	margin-top: 5%;
+	margin-bottom: 5%;
+}
+.proyect{
+	height: 150px;
+	height: 250px;
+	margin-left: 11%;
+}
+.description{
+	text-align: center;
+}
+.pro{
+	text-align: center;
+	color: white;
+	margin-top: 25%;
+}
+.yet{
+	text-align: center;
+	color: white;
+	margin-top: 10%;
+}
+.letri{
+	text-align: center;
+	color: white;
+	margin-top: 5%;
+}
+.conte{
+	text-align: center;
+	color: white;
+	margin-top: 5%;
+}
+.proyect2{
+	height: 150px;
+	height: 250px;
+	margin-left:11%;
+}
+.equipo{
+	margin-left:10%;
+	color:green;
+	margin-top: 5%;
+}
+.park{
+	border-radius: 50%;
+	width: 50%;
+	margin-left: 35%;
+	margin-top: 5%
+}
+.alie{
+	border-radius: 50%;
+	width: 50%;
+	margin-left: 20%;
+	margin-top:4%
+}
+.camy{
+	margin-left:40%;
+}
+.bas{
+	text-align: center;
+	padding: 5%;
+	font-size: 12px;
+	margin-left: 5%;
+}
+.redes{
+	padding-left: 30%;
+	margin-bottom: 20%;
+}
+.gabi{
+	margin-left: 25%;
+}
+.ber{
+	text-align: center;
+	padding: 5%;
+	font-size: 12px;
+}
+.fondo2{
+	background-image: url("../img/fondo2.jpg");
+	height: 400px;
+}
+.derecha{
+	position: relative;
+	margin-left:3%;
+	width: 7%;
+	margin-top: 10%;
+}
+.izquierda{
+	position: relative;
+	width: 7%;
+	margin-top: 10%;
+	margin-left: 5%;
+}
+.blog{
+	margin-top:3%;
+	margin-left: 5%;
+	margin-bottom: 3%;
+}
+.foto{
+	width: 100%;
+	padding: 4%;
+	
+}
+.caja{
+	width: 220px;
+	height: 200px;
+	float: left;
+	position: relative;
+	left: 2.5%;
+	top: 65px;
+	border: 1px solid white;
+	padding-top: 20px;
+	padding-left: 20px;
+	border-right: none;
+
+}
+.bordes{
+	border-right: 1px solid white !important;
+}
+
+.iconos{
+	width: 90%;
+	height: 90%;
+}
+
+#iconos{
+	width: 35px;
+	height: 35px;
+	float: right;
+	position: relative;
+	right: 20%;
+	top: 15px;
+	margin-bottom: 70px;
+}
+
+.final{
+	width: 100%;
+	height: 130px;
+	padding-top: 50px;
+}
+
+.tamano{
+	font-size: 11px;
+}

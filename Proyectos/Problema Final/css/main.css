@@ -1,0 +1,368 @@
+/*	Fondo Principal de imagen*/
+.fondo{
+	background-image: url("../img/background/hero.jpg");
+	background-size: 100%;
+	background-repeat: no-repeat;
+	height: 500px;
+	opacity: .9;
+-webkit-filter: brightness(56%);
+filter: brightness(56%);
+}
+*{
+	font-family:helvetica;
+}
+a{
+	text-decoration: none;
+}
+
+/*Iconos color*/
+.icono{
+	color: #28c5e6;
+	margin-top: 40%;
+	font-size: 40px;
+	font-weight: bold;
+	position: relative;
+	margin-left: 45%;
+	color:  #28c5e6;
+	
+}
+.icono1{
+	color: #28c5e6;
+	margin-top: 20%;
+	font-size: 40px;
+	font-weight: bold;
+	position: relative;
+	margin-left: 45%;
+
+}
+/*Coloires en general a utilizar*/
+.celeste{
+	color: #28c5e6;
+}
+.white{
+	color: #ffffff;
+}
+.gray{
+	color: 989898;
+}
+/*Menu elementos utilizados*/
+ #menu{
+	padding:5px;
+	margin-left: 50%;
+	text-decoration: none;
+}
+#menu li{
+	display: inline;
+}
+#menu li a{
+	font-size:14px;
+	text-decoration: none;
+	float:left;
+	padding-left: 25px;
+	color:#ffffff;
+}
+#menu li a:hover{
+	color: #28c5e6;
+}
+/*Texto del conternido Principal*/
+.texto1{
+	margin-top: 15%;
+	margin-bottom: 2%;
+}
+/*Contenido de cajas*/
+.boton1{
+	background-color: #000000;
+	width: 10%;
+	height: 40px;
+    font-size: 14px;
+    position: relative;
+    padding: 0.5em;
+    margin-left: 30%;
+    margin-top: 5%;
+    opacity: .9;
+   
+   
+}
+.boton2{
+	position: relative;
+	width: 10%;
+	height: 40px;
+	font-size: 15px;
+    padding: 0.5em;
+    margin-left: 20%;
+    margin-top: 5%;
+    opacity: .6;
+   
+}
+/*Contenido de la pagina section1*/
+.titulo{
+	color: #989898;
+	margin-top: 10%;
+	margin-bottom: 3%;
+}
+.contenido2{
+	padding:4%;
+	 
+}
+.contenido{
+	padding:4%;
+}
+.contenido1{
+	padding:4%;
+	margin-bottom: 15%;
+}
+/*Contenido del descion parter2*/
+.bg-gray1{
+	background-color: rgb(244, 244, 244);
+	margin-bottom: 10%;
+}
+.laptop{
+	position: relative;
+	width: 80%;
+	height: 80%;
+	margin-left: 15%;
+	margin-bottom: 10%;
+
+
+}
+/*Contenido de Iconos y parrafos*/
+.icono3{
+	margin-left: 50%;
+	color: #28c5e6;
+	font-size: 35px;
+}
+
+
+/*Empieza el section3*/
+.contenido3{
+	padding: 2%;
+
+}
+/*Contenido de Portafolio*/
+
+.encabezado{
+	color: #989898;
+	font-size: 20px;
+	margin-top: 5%;
+
+}
+/*Elementos del Menu*/
+ul#menu2 {
+  background: #ffffff;
+  border: 1px solid #ffffff;
+  list-style: none;
+  margin: 0;
+  padding: 5px;
+  overflow: hidden;
+  text-align: center;
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+ul#menu2 li {
+  float: left;
+  width: 20%;
+}
+ul#menu2 li a {
+  border-left: 1px solid #FFF;
+  border-right: 1px solid #fff;
+  color: #000000;
+  display: block;
+  padding: .3em;
+  text-decoration: none;
+}
+#menu2 li a:hover {
+	background-color: #28c5e6;
+	padding: 5px;
+	
+}
+
+/*Elementos de las Fotos*/
+
+.fondo2{
+	background-color: #ffffff;
+	margin-bottom: 2%;
+
+	}
+.foto{
+	width: 90%;
+	height: 100%;
+	position: relative;
+	margin-left: 5%;
+	margin-top: 3%;
+	margin-right: 3%
+}
+.conte{
+	font-size: 15px;
+
+}
+.cuadro{
+	background-color: #000000;
+	width: 12%;
+	padding: 15px;
+    border: #f8a13a;
+    position: relative;
+    margin-left: 45%;
+    margin-bottom: 10%;
+    text-decoration: none;
+    opacity: .6;
+    margin-top: 5%;
+}
+/*Section Ciudad chose*/
+.ciudad{
+	background-image: url("../img/background/city.jpg");
+	background-size: 100%;
+	background-repeat: no-repeat;
+	height: 500px;
+	opacity:5;
+	-webkit-filter: brightness(60%);
+	filter: brightness(60%);
+}
+
+.conte{
+	color: #ffffff;
+	margin-top: 25%;
+	margin-bottom:10%;
+}
+.idea{
+	color:#000000;
+}
+
+/*Section de debajo de la ciudad con sus elementos*/
+.color{
+	background-color: #888;
+	margin-bottom: 5%;
+}
+/*Primer cuadro Standar*/
+.fondo3{
+	background-color: #ffffff;
+	height: 100%;
+	width: 100%;
+	margin-bottom: 10%;
+	padding-top: 10%;
+}
+.cuadro1{
+	background-color: #555555;
+	height: 10%;
+	width: 90%;
+	padding: 10%;
+	margin-left: 5%;
+	margin-right: 5%;
+	
+}
+.cuadro2{
+	background-color: #d7dbe7;
+	height: 10%;
+	width: 90%;
+	padding: 10%;
+	margin-left: 5%;
+	margin-right: 5%;
+}
+.primero{
+	padding: 7%;
+}
+.boton{
+	background-color: #000000;
+	width: 50%;
+	padding: 5%;
+    border: #000000;
+    position: relative;
+    margin-bottom: 10%;
+    margin-left: 25%;
+    margin-top: 10%;
+    opacity: .5;
+}
+/*Segundo cuadro Premium*/
+
+.cuadro1-1{
+	background-color: #5eb8ad;
+	height: 10%;
+	width: 90%;
+	padding: 10%;
+	margin-left: 5%;
+	margin-right: 5%;
+	
+}
+
+/*Section Blanco con fotrografia redonda*/
+.encabezado{
+	color: 989898;
+	padding-top: 20%;
+}
+.cara{
+	border-radius: 50%;
+	width: 15%;
+	position: relative;
+	margin-left: 43%;
+	margin-top: 5%;
+	margin-bottom: 3%;
+}
+.autor{
+	margin-bottom: 7%;
+}
+/*Section de contacto de la pagina*/
+
+.contacto{
+	background-image: url("../img/background/contactus.jpg");
+	background-size: 100%;
+	background-repeat: no-repeat;
+	height: 500px;
+	-webkit-filter: brightness(59%);
+	filter: brightness(59%);
+	
+}
+.contact{
+	margin:5%;
+}
+/*Formulario de la Paagina*/
+.title{
+	margin-bottom: 5%;
+}
+form{
+	margin: auto;
+	padding: 10px 20px;
+	border-radius: 20px;
+}
+
+input, textarea{
+	width: 100%;
+	margin-bottom: 20px;
+	padding: 7px;
+	font-size: 14px;
+	font-family: helvetica;
+	background: rgba(0,0,0,.15);
+	color: #0dc0c0;
+}
+
+textarea{
+	min-height: 100px;
+	max-height: 100px;
+	max-width: 100%;
+	color: #0dc0c0;
+}
+.submit{
+	background-color: #28c5e6;
+	height: 30px;
+	width: 20%;
+	color: #ffffff;
+	border color:  #28c5e6;
+
+}
+/*Redes Sociales*/
+
+.redes{
+	padding-top: 5%;
+	padding-left:  30%;
+	padding-bottom: 5%;
+}
+.ico{
+	margin-left: 5%;
+	color:#8e929d;
+	font-size: 40px;
+}
+/*Final de la Pagina*/
+.gris{
+	background-color: #8e929d;
+	background-size: 100%;
+	padding: 1%;
+
+}
